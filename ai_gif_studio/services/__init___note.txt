@@ -1,0 +1,2 @@
+# placeholder to keep services package importable in editable installs
+# real package init lives in services/__init__.py
