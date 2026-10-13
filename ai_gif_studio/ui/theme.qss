@@ -1,0 +1,4 @@
+QMainWindow { background: #14161a; }
+QLabel { color: #d6dae0; font-size: 13px; }
+QLineEdit, QSpinBox {
+    background: #1e2229; color
