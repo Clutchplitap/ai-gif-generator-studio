@@ -1,0 +1,1 @@
+"""Command handlers: CLI and IPC entry points."""
