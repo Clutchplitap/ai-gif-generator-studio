@@ -1,0 +1,9 @@
+device = "cuda"
+default_model = "sd15-gif-lora"
+
+[render]
+max_workers = 2
+default_frames = 16
+default_fps = 12
+max_resolution = 768
+vram_budget_mb = 8192
