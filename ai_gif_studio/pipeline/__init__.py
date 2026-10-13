@@ -1,0 +1,1 @@
+"""Diffusion + temporal-coherence pipeline core."""
